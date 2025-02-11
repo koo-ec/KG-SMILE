@@ -1,17 +1,3 @@
-
-
-Accuracy notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KTMhUWa0fnDPEiO04yiv2EgPAxk__l0m)
-
-Consistency notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OAENL5jSKZemoc79fA5u2PV8pBC8xLUI)
-
-COT- PrePrompt notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tuNUdAoKdnSMOIw63mxriQvJdGjtpz-k#scrollTo=TQwaa-8771BB)
-
-Fidelity - Number Of Perturbation notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10TbC29CrBmpnSUpNr_6vnzpst0nnRAKL)
-
-Stability notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AP36M9hljghB8CtlhLs7D2bOn3-YwzEK)
-
-Time Complexity notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Eqj4-hT7pgbwqFmtDk7hHDn6k13gzx_W)
-
 # GraphRAG Explainability: Enhancing Transparency in Retrieval-Augmented Generation (RAG)
 
 ## 📌 Overview
