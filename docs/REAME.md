@@ -59,7 +59,7 @@ The resulting **knowledge graph** serves as a **foundational dataset** for evalu
 - **Cosine Similarity:** Measures how similar the original and perturbed responses are by comparing vector representations.
 - **Wasserstein Distance (WD):** Captures **distributional shifts** between original and perturbed outputs.
 - **Inverse Wasserstein Distance (inv\_WD):** Highlights **opposite nodes** and emphasizes contrasting elements, improving interpretability.
-- **Hybrid Metric (Cosine + WD + inv\_WD):** Balances **local alignment**, **global structure changes**, and **contrastive interpretability**.
+- **Hybrid Metric (Cosine - WD - inv\_WD):** Balances **local alignment**, **global structure changes**, and **contrastive interpretability**.
 
 ### **Accuracy Metrics**
 
