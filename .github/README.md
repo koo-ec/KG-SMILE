@@ -2,6 +2,10 @@
 
 # GraphRAG Explainability: Enhancing Transparency in Retrieval-Augmented Generation (RAG)
 
+
+<img src="https://github.com/koo-ec/XGRAG/blob/main/docs/Figures/Explainability.png" alt="example">
+
+
 ## 📌 Overview
 
 This repository presents an approach to improving the explainability of **GraphRAG**—a framework that integrates **Knowledge Graphs (KGs)** with **Retrieval-Augmented Generation (RAG)** to enhance AI-driven decision-making, particularly in high-stakes domains like **law** and **cybersecurity**.
@@ -9,7 +13,6 @@ This repository presents an approach to improving the explainability of **GraphR
 The primary goal of this research is to assess how **perturbations** in knowledge graphs influence AI-generated responses and to quantify their impact using advanced **explainability metrics** such as **cosine similarity** and **inverse Wasserstein distance (inv\_WD)**.
 
 ---
-<img src="https://github.com/koo-ec/XGRAG/blob/main/docs/Figures/Explainability.png" alt="example">
 ## 🔍 Features
 
 - **Graph-Based Retrieval:** Enhancing RAG with structured knowledge graphs.
