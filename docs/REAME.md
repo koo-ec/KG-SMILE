@@ -156,6 +156,5 @@ We welcome contributions! Open an **issue** for feature requests or submit a **p
 
 ## 🌟 Acknowledgments
 
-Special thanks to **Professor Dhaval Thakker**, **DR** **Koroosh aslansefat**, and the **Responsible AI Research Group** at **University of Hull**.
-
+Special thanks to **Professor Dhaval Thakker**,**Dr Koroosh Aslansefat**, **Dr Bupesh Mishra**,**Dr Rameez Raja Kureshi**, and the **Responsible AI Research Group at the University of Hull**
 
