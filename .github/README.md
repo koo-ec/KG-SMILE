@@ -1,6 +1,6 @@
 
 
-# GraphRAG Explainability: Enhancing Transparency in Retrieval-Augmented Generation (RAG)
+# Explainable Knowledge Graph Retrieval-Augmented Generation (KG-RAG) with KG-SMILE
 
 
 <img src="https://github.com/koo-ec/XGRAG/blob/main/docs/Figures/Explainability.png" alt="example">
@@ -12,6 +12,7 @@ This repository presents an approach to improving the explainability of **GraphR
 
 The primary goal of this research is to assess how **perturbations** in knowledge graphs influence AI-generated responses and to quantify their impact using advanced **explainability metrics** such as **cosine similarity** and **inverse Wasserstein distance (inv\_WD)**.
 
+You can find our paper on <a href = "https://arxiv.org/abs/2509.03626">arxiv</a>.
 ---
 ## 🔍 Features
 
